@@ -1,5 +1,8 @@
 streamlit
 pandas
-numpy
 plotly
+numpy
 openpyxl
+streamlit-extras
+fpdf2
+kaleido
